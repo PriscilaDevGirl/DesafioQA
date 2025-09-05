@@ -1,5 +1,7 @@
 # DesafioQA – Automação de Testes
 
+Link do vídeo https://drive.google.com/file/d/14AXyC0u5ZvttVeID_2cddq0JCsJauwBS/view?usp=sharing
+
 ## Descrição
 
 Este projeto tem como objetivo automatizar testes de API e interface de usuário utilizando Python, Pytest, Selenium WebDriver e Behave. Foi desenvolvido como parte do desafio técnico para a vaga de QA Automation.
