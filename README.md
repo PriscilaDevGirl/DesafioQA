@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Accenture QA Automation – Projeto Completo (API + Frontend)
 
 ## Stack
@@ -53,3 +54,7 @@ git push -u origin main
 - Os testes de API utilizam a BookStore Demo API (demoqa.com).
 - Os testes de UI usam a página https://demoqa.com/text-box.
 - O workflow CI baixa Chrome e executa os testes em modo headless.
+=======
+# DesafioQA
+DesafioQA
+>>>>>>> 7ae00d58413ed0c3722cfab729edb0e57321f7b8
