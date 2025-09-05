@@ -1,13 +1,17 @@
-<<<<<<< HEAD
-# Accenture QA Automation – Projeto Completo (API + Frontend)
+# DesafioQA – Automação de Testes
 
-## Stack
-- Python
-- Pytest (API + UI)
-- Requests (API)
-- Selenium WebDriver (UI) – com Page Object Model (POM)
-- Behave (BDD)
-- GitHub Actions (CI)
+## Descrição
+
+Este projeto tem como objetivo automatizar testes de API e interface de usuário utilizando Python, Pytest, Selenium WebDriver e Behave. Foi desenvolvido como parte do desafio técnico para a vaga de QA Automation.
+
+## Tecnologias Utilizadas
+
+- **Python**: Linguagem principal para automação.
+- **Pytest**: Framework para testes de API e UI.
+- **Requests**: Biblioteca para testes de API.
+- **Selenium WebDriver**: Automação de testes de UI com Page Object Model (POM).
+- **Behave**: Framework BDD para testes de comportamento.
+- **GitHub Actions**: Integração contínua para execução automatizada de testes.
 
 ## Estrutura
 ```
@@ -57,4 +61,8 @@ git push -u origin main
 =======
 # DesafioQA
 DesafioQA
+Contribuições
+
+Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, faça um fork deste repositório, crie uma branch com suas alterações e envie um pull request.
+Atualizando README
 >>>>>>> 7ae00d58413ed0c3722cfab729edb0e57321f7b8
